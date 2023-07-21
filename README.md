@@ -20,8 +20,8 @@
 - <'span><'/span> - 보이지 않는 글자 영역 박스
 
 - 색을 넣을 때는, </br>
-<style="background-color: #~;"> - 배경색 </br>
-<style="color: #~;"> - 글자색
+<style="background-color: #~"> - 배경색 </br>
+<style="color: #~"> - 글자색
 
 - 여백을 줄 때는, </br> 
 <style="padding:??px;"> -안쪽 </br>
