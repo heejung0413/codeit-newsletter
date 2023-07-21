@@ -7,7 +7,6 @@
 - <a href="https://www.codeit.kr/topics/intro-to-web-publishing">코드잇 교육컨텐츠</a> 를 보고 제작하였습니다. 
 <p align="center">
 <img src="/main/Weekly_Codeit_-_Chrome_2023-07-21_20-44-08_AdobeExpress.gif">
-</br>
 <img src="/main/certificates.jpg" style="width:300px">
 </p> 
 
