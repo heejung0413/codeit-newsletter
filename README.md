@@ -12,7 +12,7 @@
 ## Overview ⭐️
 - HTML, CSS 언어 기초 다지기 위해 제작한 웹 페이지
 
-<p align="center>
+<p>
   <img src="/main/subscribe.jpg">
 </p>
 
