@@ -7,8 +7,10 @@
 <p align="center">
 <img src="/main/Weekly_Codeit_-_Chrome_2023-07-21_20-44-08_AdobeExpress.gif" ">
 </p>
-## 내용정리 
-<h3> 요점정리 </h3>
+
+
+## 요점정리 ⭐️
+
 // <div></div> 보이지 않는 영역 박스 
 <span></span> 보이지 않는 글자 영역 박스
 
