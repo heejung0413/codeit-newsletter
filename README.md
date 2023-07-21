@@ -1,11 +1,11 @@
 ### 코드잇을 보고 제작한 웹페이지입니다
-
+<p align="center">
 - HTML, CSS 언어를 기초로 하여 페이지를 제작하였습니다(javascript는 사용하지 않았습니다)
 - 총 두 페이지입니다.
 - <a href="heejung0413.github.io/codeit-newsletter/">index 페이지
 - </a>, <a href="heejung0413.github.io/codeit-newsletter/subscribe.html"> subscribe 페이지 </a> 
-<img src="/main/Weekly_Codeit_-_Chrome_2023-07-21_20-44-08_AdobeExpress.gif" style="text-align: center;">
-
+<img src="/main/Weekly_Codeit_-_Chrome_2023-07-21_20-44-08_AdobeExpress.gif" ">
+</p>
 ## 내용정리 
 <h3> 요점정리 </h3>
 // <div></div> 보이지 않는 영역 박스 
