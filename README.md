@@ -4,7 +4,7 @@
 - 총 두 페이지입니다.
 - <a href="heejung0413.github.io/codeit-newsletter/">index 페이지
 - </a>, <a href="heejung0413.github.io/codeit-newsletter/subscribe.html"> subscribe 페이지 </a> 
-<img src="/main/Weekly_Codeit_-_Chrome_2023-07-21_20-44-08_AdobeExpress.gif" style=text-align: center;>
+<img src="/main/Weekly_Codeit_-_Chrome_2023-07-21_20-44-08_AdobeExpress.gif" style="text-align: center;">
 
 ## 내용정리 
 <h3> 요점정리 </h3>
