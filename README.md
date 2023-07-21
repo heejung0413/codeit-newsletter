@@ -8,7 +8,7 @@
 <p align="center">
 <img src="/main/Weekly_Codeit_-_Chrome_2023-07-21_20-44-08_AdobeExpress.gif">
 </br>
-<img src="/main/certificates.jpg">
+<img src="/main/certificates.jpg" style="width:200px">
 </p> 
 
 ## Overview ⭐️
