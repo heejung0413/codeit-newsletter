@@ -4,10 +4,9 @@
 - 총 두 페이지입니다. </br>
 - 페이지 확인해주세요 👉🏻<a href="heejung0413.github.io/codeit-newsletter/">index 페이지</a> </br>
 - 페이지 확인해주세요 👉🏻<a href="heejung0413.github.io/codeit-newsletter/subscribe.html"> subscribe 페이지 </a>  </br>
-- <a href="https://www.codeit.kr/topics/intro-to-web-publishing">코드잇 교육컨텐츠</a> 를 보고 제작하였습니다. 
+- <a href="https://www.codeit.kr/topics/intro-to-web-publishing">코드잇 교육컨텐츠</a> 를 보고 제작하였습니다. </br> 
 <p align="center">
-<img src="/main/Weekly_Codeit_-_Chrome_2023-07-21_20-44-08_AdobeExpress.gif">
-<img src="/main/certificates.jpg" style="width:300px">
+<img src="/main/Weekly_Codeit_-_Chrome_2023-07-21_20-44-08_AdobeExpress.gif"> <img src="/main/certificates.jpg" style="width:300px">
 </p> 
 
 ## Overview ⭐️
