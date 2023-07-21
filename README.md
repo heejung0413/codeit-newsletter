@@ -2,7 +2,8 @@
 
 - HTML, CSS 언어를 기초로 하여 페이지를 제작하였습니다(javascript는 사용하지 않았습니다)
 - 총 두 페이지입니다.
-- <a href="heejung0413.github.io/codeit-newsletter/">index 페이지 </a>, <a href="heejung0413.github.io/codeit-newsletter/subscribe.html"> subscribe 페이지 </a> 
+- <a href="heejung0413.github.io/codeit-newsletter/">index 페이지
+- </a>, <a href="heejung0413.github.io/codeit-newsletter/subscribe.html"> subscribe 페이지 </a> 
 
 
 ## 내용정리 
