@@ -12,8 +12,8 @@
 ## Overview ⭐️
 - HTML, CSS 언어 기초 다지기 위해 제작한 웹 페이지
 
-<p>
-  <img src="/main/subscribe.jpg" style="width:300px" >
+<p align="center">
+  <img src="/main/subscribe.jpg" style="width:500px" >
 </p>
 
 - 맨 아래 "구독신청하기"를 클릭하면, subcribe 페이지로 이동가능 합니다
