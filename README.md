@@ -16,7 +16,7 @@
   <img src="/main/subscribe.jpg" style="width:500px" >
 </p>
 
-- 맨 아래 "구독신청하기"를 클릭하면, subcribe 페이지로 이동가능 합니다
+- index 페이지에서 맨 아래 "구독신청하기"를 클릭하면, subcribe 페이지로 이동가능 합니다
 - 구글 애털리틱스가 적용되어 있습니다.
 
 </br>
